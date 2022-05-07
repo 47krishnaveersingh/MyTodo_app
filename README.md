@@ -1,6 +1,7 @@
 # todo_app
+<img src="M_data/giphy (1).gif"/>
 
-A new Flutter project.
+Made A simple Todo app using sqlite and material app
 
 ## Getting Started
 
